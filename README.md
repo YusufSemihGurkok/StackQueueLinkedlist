@@ -3,7 +3,7 @@ StackQueueLinkedlist in C++
 Linked List and Queue and Stack Implementation
 This repository contains C code that demonstrates the implementation of a singly linked list, a queue, and a stack. The program provides various operations to manipulate these data structures.
 
-#Usage
+# Usage
 After running the program, you will be presented with a menu where you can choose different operations on the linked list, queue, and stack:
 
 Create: Creates a new linked list by adding elements to it.
@@ -24,11 +24,11 @@ Insert: Inserts an element into the stack.
 Delete: Deletes an element from the stack.
 Follow the prompts on the screen to input your choices and interact with the queue and stack.
 
-#Contributing
+# Contributing
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit a pull request.
 
-#License
+# License
 This project is licensed under the MIT License.
 
-#Acknowledgements
+# Acknowledgements
 This code provides a basic implementation of a singly linked list, a queue, and a stack, and includes various operations for manipulating these data structures.
